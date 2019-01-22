@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBed", "WindowsFormsApplication1\TestBed.csproj", "{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCASPLITTER", "FCASPLITTER)!\FCASPLITTER.csproj", "{CF2D2958-543A-45F4-BC17-7BE618940825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordEditor", "WordEditor\WordEditor.csproj", "{C995C89B-D627-4E95-8BD8-279B43B8D07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Debug|x86.ActiveCfg = Debug|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Debug|x86.Build.0 = Debug|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Release|Any CPU.ActiveCfg = Release|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Release|x86.ActiveCfg = Release|x86
+		{0D7625BC-86B9-4D72-9AD4-BAD871429BDF}.Release|x86.Build.0 = Release|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Debug|x86.ActiveCfg = Debug|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Debug|x86.Build.0 = Debug|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Release|Any CPU.ActiveCfg = Release|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Release|x86.ActiveCfg = Release|x86
+		{CF2D2958-543A-45F4-BC17-7BE618940825}.Release|x86.Build.0 = Release|x86
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C995C89B-D627-4E95-8BD8-279B43B8D07A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

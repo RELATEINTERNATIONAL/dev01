@@ -1,0 +1,43 @@
+C:\PROJECT2017\AIRECO\WordEditor\bin\Debug\WordEditor.dll
+C:\PROJECT2017\AIRECO\WordEditor\bin\Debug\WordEditor.pdb
+C:\PROJECT2017\AIRECO\WordEditor\bin\Debug\DATACONNECTION.dll
+C:\PROJECT2017\AIRECO\WordEditor\bin\Debug\DATACONNECTION.pdb
+C:\PROJECT2017\AIRECO\WordEditor\obj\Debug\WordEditor.csprojResolveAssemblyReference.cache
+C:\PROJECT2017\AIRECO\WordEditor\obj\Debug\WordEditor.frmwp.resources
+C:\PROJECT2017\AIRECO\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.Cache
+C:\PROJECT2017\AIRECO\WordEditor\obj\Debug\WordEditor.dll
+C:\PROJECT2017\AIRECO\WordEditor\obj\Debug\WordEditor.pdb
+C:\SUDHIR WORKS\AIRECO\WordEditor\bin\Debug\WordEditor.dll
+C:\SUDHIR WORKS\AIRECO\WordEditor\bin\Debug\WordEditor.pdb
+C:\SUDHIR WORKS\AIRECO\WordEditor\bin\Debug\DATACONNECTION.dll
+C:\SUDHIR WORKS\AIRECO\WordEditor\bin\Debug\DATACONNECTION.pdb
+C:\SUDHIR WORKS\AIRECO\WordEditor\obj\Debug\WordEditor.csprojResolveAssemblyReference.cache
+C:\SUDHIR WORKS\AIRECO\WordEditor\obj\Debug\WordEditor.frmwp.resources
+C:\SUDHIR WORKS\AIRECO\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.Cache
+C:\SUDHIR WORKS\AIRECO\WordEditor\obj\Debug\WordEditor.dll
+C:\SUDHIR WORKS\AIRECO\WordEditor\obj\Debug\WordEditor.pdb
+D:\CRM\CRM\WordEditor\bin\Debug\WordEditor.dll
+D:\CRM\CRM\WordEditor\bin\Debug\WordEditor.pdb
+D:\CRM\CRM\WordEditor\bin\Debug\DATACONNECTION.dll
+D:\CRM\CRM\WordEditor\bin\Debug\DATACONNECTION.pdb
+D:\CRM\CRM\WordEditor\obj\Debug\WordEditor.csprojResolveAssemblyReference.cache
+D:\CRM\CRM\WordEditor\obj\Debug\WordEditor.frmwp.resources
+D:\CRM\CRM\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.Cache
+D:\CRM\CRM\WordEditor\obj\Debug\WordEditor.dll
+D:\CRM\CRM\WordEditor\obj\Debug\WordEditor.pdb
+M:\01 WORK\CRM\CRM\WordEditor\bin\Debug\WordEditor.dll
+M:\01 WORK\CRM\CRM\WordEditor\bin\Debug\WordEditor.pdb
+M:\01 WORK\CRM\CRM\WordEditor\bin\Debug\DATACONNECTION.dll
+M:\01 WORK\CRM\CRM\WordEditor\bin\Debug\DATACONNECTION.pdb
+M:\01 WORK\CRM\CRM\WordEditor\obj\Debug\WordEditor.csprojResolveAssemblyReference.cache
+M:\01 WORK\CRM\CRM\WordEditor\obj\Debug\WordEditor.frmwp.resources
+M:\01 WORK\CRM\CRM\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.Cache
+M:\01 WORK\CRM\CRM\WordEditor\obj\Debug\WordEditor.dll
+M:\01 WORK\CRM\CRM\WordEditor\obj\Debug\WordEditor.pdb
+C:\01 WORK\FCASPLITTER)!\WordEditor\obj\Debug\WordEditor.csprojResolveAssemblyReference.cache
+C:\01 WORK\FCASPLITTER)!\WordEditor\obj\Debug\WordEditor.frmwp.resources
+C:\01 WORK\FCASPLITTER)!\WordEditor\obj\Debug\WordEditor.csproj.GenerateResource.Cache
+C:\01 WORK\FCASPLITTER)!\WordEditor\obj\Debug\WordEditor.pdb
+C:\01 WORK\FCASPLITTER)!\WordEditor\bin\Debug\WordEditor.dll
+C:\01 WORK\FCASPLITTER)!\WordEditor\bin\Debug\WordEditor.pdb
+C:\01 WORK\FCASPLITTER)!\WordEditor\obj\Debug\WordEditor.dll

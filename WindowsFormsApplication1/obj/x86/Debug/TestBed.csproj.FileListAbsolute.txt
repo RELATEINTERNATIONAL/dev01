@@ -1,0 +1,46 @@
+C:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csproj.GenerateResource.Cache
+C:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.dll
+C:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.pdb
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csprojResolveAssemblyReference.cache
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\FCASPLITTER.TestBed.resources
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.dll
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.pdb
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csprojResolveAssemblyReference.cache
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\FCASPLITTER.TestBed.resources
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csproj.GenerateResource.Cache
+G:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.dll
+G:\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.pdb
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csprojResolveAssemblyReference.cache
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\FCASPLITTER.TestBed.resources
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csproj.GenerateResource.Cache
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.dll
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\FCASPLITTER)!.pdb
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csprojResolveAssemblyReference.cache
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\FCASPLITTER.TestBed.resources
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WORKS\FCASPLITTER)!\WindowsFormsApplication1\obj\x86\Debug\TestBed.csproj.GenerateResource.Cache
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WordEditor.dll
+C:\01 WORK\FCASPLITTER)!\WindowsFormsApplication1\bin\Debug\WordEditor.pdb

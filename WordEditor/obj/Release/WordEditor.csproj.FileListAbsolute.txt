@@ -1,0 +1,9 @@
+D:\CRM\CRM\WordEditor\bin\Release\WordEditor.dll
+D:\CRM\CRM\WordEditor\bin\Release\WordEditor.pdb
+D:\CRM\CRM\WordEditor\bin\Release\DATACONNECTION.dll
+D:\CRM\CRM\WordEditor\bin\Release\DATACONNECTION.pdb
+D:\CRM\CRM\WordEditor\obj\Release\WordEditor.csprojResolveAssemblyReference.cache
+D:\CRM\CRM\WordEditor\obj\Release\WordEditor.frmwp.resources
+D:\CRM\CRM\WordEditor\obj\Release\WordEditor.csproj.GenerateResource.Cache
+D:\CRM\CRM\WordEditor\obj\Release\WordEditor.dll
+D:\CRM\CRM\WordEditor\obj\Release\WordEditor.pdb
